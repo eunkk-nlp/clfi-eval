@@ -30,5 +30,16 @@ Each entry includes:
 - `answer_type`: answer type (`year`, `entity`, `numeric`)
 - `numeric_tolerance`: tolerance threshold for numeric answers (null if not applicable)
 
+## Notes
+
+Model responses (GPT-4o-mini and Llama-3.1-8B outputs) are not 
+included in this repository. GPT-4o-mini responses were obtained 
+via the OpenAI API and cannot be redistributed under OpenAI's 
+usage policies. Llama-3.1-8B responses were generated locally 
+and are omitted to keep the repository lightweight.
+
+Only the query dataset and ground-truth answers derived from 
+Wikidata (CC0 license) are provided here.
+
 ## License
 CC BY 4.0
