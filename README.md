@@ -14,7 +14,7 @@ An Empirical Analysis Across Languages and Domains"**
 
 `dataset/queries.json` contains 422 factual queries across four knowledge
 domains (person, geography, organization, statistics) and three languages
-(Japanese, Korean, English), grounded in Wikidata triples.
+(Korean, Japanese, English), grounded in Wikidata triples.
 
 ## Format
 
@@ -41,5 +41,10 @@ and are omitted to keep the repository lightweight.
 Only the query dataset and ground-truth answers derived from 
 Wikidata (CC0 license) are provided here.
 
+## Citation
+This dataset is associated with a paper currently under review.
+Citation information will be added upon publication.
+
 ## License
-CC BY 4.0
+- Dataset queries and ground-truth answers: derived from Wikidata (CC0 1.0)
+- This repository: CC BY 4.0
